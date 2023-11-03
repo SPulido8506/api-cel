@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Empleado": 3
+  },
+  "models": {
+    "Empleado": {
+      "1": "{\"noempleado\":1,\"fecha_ent\":\"2023-10-31T07:19:00.084Z\",\"nombre\":\"Sergio\",\"apellid_p\":\"Campos\",\"apellido_m\":\"Estrada\",\"fecha_nac\":\"1979-10-28T07:19:00.084Z\",\"sexo\":\"M\",\"estado_c\":\"CASADO\",\"escolaridad\":\"LICENCIATURA\",\"lugar_nac\":\"ZAMORA\",\"calle\":\"BENITO JUAREZ\",\"numero\":17,\"colonia\":\"CENTRO\",\"ciudad\":\"ZAMORA\",\"estado\":\"MICHOACAN\",\"curp\":\"YRFHF5552FDFE\",\"rfc\":\"YRFHF5552FDFE\",\"nss\":\"153252453\",\"departamento\":\"CALIDAD\",\"puesto\":\"JEFE\",\"telefono\":\"3515178963\",\"mail\":\"A@EJEMPLO.COM\",\"estatus\":\"ACTIVO\",\"tipo_e\":\"QUINCENAL\"}",
+      "2": "{\"fecha_ent\":\"2023-10-28T07:19:00.084Z\",\"nombre\":\"Israel\",\"apellid_p\":\"Campos\",\"apellido_m\":\"Estrada\",\"fecha_nac\":\"1979-10-28T07:19:00.084Z\",\"sexo\":\"M\",\"estado_c\":\"CASADO\",\"escolaridad\":\"LICENCIATURA\",\"lugar_nac\":\"ZAMORA\",\"calle\":\"BENITO JUAREZ\",\"numero\":17,\"colonia\":\"CENTRO\",\"ciudad\":\"ZAMORA\",\"estado\":\"MICHOACAN\",\"curp\":\"YRFHF5552FDFE\",\"rfc\":\"YRFHF5552FDFE\",\"nss\":\"153252453\",\"departamento\":\"CALIDAD\",\"puesto\":\"AUXILIAR\",\"telefono\":\"3515178963\",\"mail\":\"A@EJEMPLO.COM\",\"estatus\":\"ACTIVO\",\"tipo_e\":\"QUINCENAL\",\"noempleado\":2}"
+    }
+  }
+}
