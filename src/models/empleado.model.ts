@@ -10,7 +10,7 @@ export class Empleado extends Entity {
   noempleado?: number;
 
   @property({
-    type: 'date',
+    type: 'string',
     required: true,
   })
   fecha_ent: string;
@@ -34,7 +34,7 @@ export class Empleado extends Entity {
   apellido_m: string;
 
   @property({
-    type: 'date',
+    type: 'string',
     required: true,
   })
   fecha_nac: string;

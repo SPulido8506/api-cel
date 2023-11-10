@@ -1,11 +1,14 @@
 {
   "ids": {
-    "Empleado": 3
+    "Empleado": 6,
+    "Usuario": 2
   },
   "models": {
     "Empleado": {
-      "1": "{\"noempleado\":1,\"fecha_ent\":\"2023-10-31T07:19:00.084Z\",\"nombre\":\"Sergio\",\"apellid_p\":\"Campos\",\"apellido_m\":\"Estrada\",\"fecha_nac\":\"1979-10-28T07:19:00.084Z\",\"sexo\":\"M\",\"estado_c\":\"CASADO\",\"escolaridad\":\"LICENCIATURA\",\"lugar_nac\":\"ZAMORA\",\"calle\":\"BENITO JUAREZ\",\"numero\":17,\"colonia\":\"CENTRO\",\"ciudad\":\"ZAMORA\",\"estado\":\"MICHOACAN\",\"curp\":\"YRFHF5552FDFE\",\"rfc\":\"YRFHF5552FDFE\",\"nss\":\"153252453\",\"departamento\":\"CALIDAD\",\"puesto\":\"JEFE\",\"telefono\":\"3515178963\",\"mail\":\"A@EJEMPLO.COM\",\"estatus\":\"ACTIVO\",\"tipo_e\":\"QUINCENAL\"}",
-      "2": "{\"fecha_ent\":\"2023-10-28T07:19:00.084Z\",\"nombre\":\"Israel\",\"apellid_p\":\"Campos\",\"apellido_m\":\"Estrada\",\"fecha_nac\":\"1979-10-28T07:19:00.084Z\",\"sexo\":\"M\",\"estado_c\":\"CASADO\",\"escolaridad\":\"LICENCIATURA\",\"lugar_nac\":\"ZAMORA\",\"calle\":\"BENITO JUAREZ\",\"numero\":17,\"colonia\":\"CENTRO\",\"ciudad\":\"ZAMORA\",\"estado\":\"MICHOACAN\",\"curp\":\"YRFHF5552FDFE\",\"rfc\":\"YRFHF5552FDFE\",\"nss\":\"153252453\",\"departamento\":\"CALIDAD\",\"puesto\":\"AUXILIAR\",\"telefono\":\"3515178963\",\"mail\":\"A@EJEMPLO.COM\",\"estatus\":\"ACTIVO\",\"tipo_e\":\"QUINCENAL\",\"noempleado\":2}"
+      "5": "{\"noempleado\":5,\"fecha_ent\":\"2023-11-03\",\"nombre\":\"ROSARIO\",\"apellid_p\":\"MORALES\",\"apellido_m\":\"PEREZ\",\"fecha_nac\":\"1989-08-17\",\"sexo\":\"FEMENINO\",\"estado_c\":\"DIVORCIADO(A)\",\"escolaridad\":\"LICENCIATURA\",\"lugar_nac\":\"YURECUARO\",\"calle\":\"GARDENIA\",\"numero\":79,\"colonia\":\"LAS ROSA\",\"ciudad\":\"ZAMORA\",\"estado\":\"MICHOACAN\",\"curp\":\"PEMR890817MFNLNL02\",\"rfc\":\"PEMR8908173H6\",\"nss\":\"5236987415\",\"departamento\":\"Recursos Humanos\",\"puesto\":\"Gerente\",\"telefono\":\"35151734001\",\"mail\":\"RMORALES@PROD.COM.MX\",\"estatus\":\"ACTIVO\",\"tipo_e\":\"QUINCENAL\"}"
+    },
+    "Usuario": {
+      "1": "{\"idUsuario\":1,\"nombre\":\"Saul Pulido\",\"email\":\"spulido@test.com\",\"contrasenia\":\"test123\",\"tipoU\":\"ADMINISTRADOR\"}"
     }
   }
 }
